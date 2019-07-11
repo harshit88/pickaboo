@@ -1,2 +1,2 @@
 # pickaboo
-c and c++
+python
